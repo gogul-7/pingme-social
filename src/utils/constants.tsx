@@ -1,0 +1,3 @@
+export const server_url = "https://uvrbvlzplwyvhqfqhyks.supabase.co";
+export const supabase_key =
+  "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InV2cmJ2bHpwbHd5dmhxZnFoeWtzIiwicm9sZSI6ImFub24iLCJpYXQiOjE3MzE3NTk4OTAsImV4cCI6MjA0NzMzNTg5MH0.azHB7DYtECQZiSIoTowPLUCjSnMLiKELQR0TPITOmNw";
